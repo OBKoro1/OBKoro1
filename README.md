@@ -2,7 +2,6 @@
 
 ### 社区主页
 
-* [博客](http://obkoro1.com/web_accumulate/)
 * [掘金](https://juejin.cn/user/78820536236951/posts)
 * [segmentfault](https://segmentfault.com/u/obkoro1/articles)
 * [公众号](https://github.com/OBKoro1/articleImg_src/blob/master/juejin/1631b6f52f7e7015.jpeg?raw=true)
