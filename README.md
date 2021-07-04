@@ -2,7 +2,7 @@
 
 Hi，大家好，我是OBKoro1，大家可以叫koro(扣肉)。
 
-关于我的其他信息有兴趣的朋友可以去[前端进阶积累-关于](http://obkoro1.com/web_accumulate/about.html)里了解。
+关于我的其他信息有兴趣的朋友可以去[前端进阶积累-关于](http://obkoro1.com/web_accumulate/about.html)了解。
 
 下面是我在github上的几个开源项目的演示gif，自认为还是比较好用的工具。
 
