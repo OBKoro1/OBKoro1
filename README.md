@@ -23,6 +23,14 @@ chrome插件**通过强制的手段禁止大家浪费时间摸鱼**，在上班/
 
 ![](https://github.com/OBKoro1/stop-mess-around/raw/master/static/example/start-20211101.gif?raw=true)
 
+#### [AutoCommit](https://github.com/OBKoro1/autoCommit)
+
+* 这是一个可以在任意时间范围自动提交commit的VSCode插件
+* 它可以自由控制每天的commit次数, 随机commit次数，使你的commit提交看起来更加逼真。
+* **它在平常不用运行，需要的时候花十几分钟一键刷commit，填满你的github首页绿色格子**。
+
+![](https://github.com/OBKoro1/autoCommit/raw/master/images/autoCommit.gif?raw=true)
+
 ### [web-basics](https://github.com/OBKoro1/web-basics)
 
 收集和整理了一个大厂前端需要掌握能力的仓库。
@@ -32,14 +40,6 @@ chrome插件**通过强制的手段禁止大家浪费时间摸鱼**，在上班/
 希望能够帮助大家提升自己的能力，在面试的时候能够游刃有余，轻松拿到高薪offer。
 
 ![大厂前端需要掌握的能力](https://github.com/OBKoro1/web-basics/blob/main/static/web-basic-example.gif?raw=true)
-
-#### [AutoCommit](https://github.com/OBKoro1/autoCommit)
-
-* 这是一个可以在任意时间范围自动提交commit的VSCode插件
-* 它可以自由控制每天的commit次数, 随机commit次数，使你的commit提交看起来更加逼真。
-* **它在平常不用运行，需要的时候花十几分钟一键刷commit，填满你的github首页绿色格子**。
-
-![](https://github.com/OBKoro1/autoCommit/raw/master/images/autoCommit.gif?raw=true)
 
 ### 欢迎赞助
 
