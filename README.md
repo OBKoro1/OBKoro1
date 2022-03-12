@@ -52,7 +52,7 @@ Hi，大家好，我是OBKoro1，大家可以叫koro(扣肉)。
 
 如果觉得这个效率工具还不错, 对你有所帮助，就赞助支持一下我的工作吧。
 
-![](https://github.com/OBKoro1/koro1FileHeader/raw/master/images/money1.jpg?raw=true)
+<img src="https://raw.githubusercontent.com/OBKoro1/koro1FileHeader/dev/images/pay.jpg" alt="赞助" width="500px" style="display: block;"/>
 
 ### 联系方式:
 
